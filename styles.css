@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.container{
+    position: relative;
+	height: 50px;
+    width: 800px;
+    display: inline-flex;
+}
+.box{
+	background-color: green;
+	height:25px;
+	width: 27px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
